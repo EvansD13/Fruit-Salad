@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "watchify": "^4.0.0"
+  },
+  "dependencies": {
+    "ansi-colors": "^4.1.3"
   }
 }
